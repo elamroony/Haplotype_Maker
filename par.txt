@@ -1,0 +1,4 @@
+genotypes.txt         # name of file with genotypes; format Animal ID and SNPs (seprated by at least one space)
+1                     # Where to start the window
+4                     # Window's length (how many SNPs)
+outFile.txt           # Name of output file
