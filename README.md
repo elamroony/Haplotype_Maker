@@ -21,4 +21,16 @@ Genotype    Allelic format    Haplotype coding
 ```
 
 
-**Output file:**
+**Output file:** It has 5 columns:
+
+1. Index, from 1 to n, where n is the number of animals.     
+2. Animal ID.     
+3. Genotypes in the window.      
+4. First haplotype.   
+5. Second haplotype.   
+```
+1 Ani0001 0402 1212 1112
+2 Ani0002 3432 1212 2122
+3 Ani0003 4000 2111 1111
+4 Ani0004 2243 2221 2212
+```
