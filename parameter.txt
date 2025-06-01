@@ -1,0 +1,4 @@
+genotypes.txt     !name of the genotypes file
+2                 !Start position (Where the window starts)
+3                 !The length of the window (i.e., how many SNPs)
+outHapMaker.txt   !Name of the output file
