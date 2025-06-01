@@ -46,7 +46,8 @@ outHapMaker.txt   !Name of the output file
 ```
 The output file name will include the start position as well as the window size: [base]_start[position]_window[size].txt
 
-To run hapMaker: ./hapMaker 
+To run hapMaker: 
+```./hapMaker ```
 
 
 
